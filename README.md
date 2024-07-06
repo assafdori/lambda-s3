@@ -1,5 +1,3 @@
-![codesnap](https://github.com/assafdori/lambda-s3/blob/main/lambda.png)
-
 ## Project: Automated AWS S3 Data Transfer with Lambda and Terraform 🪣
 
 ### Description:
@@ -13,4 +11,4 @@ This project automates data transfer between AWS S3 buckets using AWS Lambda and
 3. Terraform
 4. Python
 
-
+![codesnap](https://github.com/assafdori/lambda-s3/blob/main/lambda.png)
