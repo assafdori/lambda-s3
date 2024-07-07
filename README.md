@@ -1,4 +1,4 @@
-![codesnap](https://github.com/assafdori/lambda-s3/blob/main/lambda-snap.png)
+![codesnap](https://github.com/assafdori/lambda-s3/blob/main/lambda.png)
 
 ## Project: Automated AWS S3 Data Transfer with Lambda and Terraform 🪣
 
